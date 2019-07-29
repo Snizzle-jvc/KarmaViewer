@@ -2,8 +2,8 @@
 // @name        KarmaViewer
 // @author      Snizzle
 // @version     1.0
-// @downloadURL li
-// @updateURL   li
+// @downloadURL https://github.com/Snizzle-jvc/MassMP/raw/master/KarmaViewer.user.js
+// @updateURL   https://github.com/Snizzle-jvc/MassMP/raw/master/KarmaViewer.user.js
 // @supportURL  http://www.jeuxvideo.com/messages-prives/nouveau.php?all_dest=Snizzle;Snitchzzle
 // @copyright   2019, Snizzle
 // @licence     MIT
